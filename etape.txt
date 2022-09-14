@@ -1,0 +1,6 @@
+Ouvrir l'image
+threshold l'image en adaptatif. (img_bin.png)
+
+inversion des couleurs de l'image. (cv_inverted.png)
+
+on recherche les lignes verticales et horizontale. (horizontal.jpg et vertical.jpg)
